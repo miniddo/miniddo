@@ -26,9 +26,9 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
+#### :pencil2: Velog
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniddo&layout=compact)](https://github.com/miniddo/github-readme-stats)
-
-
+  <br />
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minidoo&color=dark)](https://velog.io/@minidoo)  
+ 
 </div>
